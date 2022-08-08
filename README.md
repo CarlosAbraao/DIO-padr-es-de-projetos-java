@@ -17,6 +17,12 @@
 
 <h2> 🚦 Tipos de padrões de projetos</h2>
 
+<ul>
+    <li><strong>Criacionais:</strong> esses padrões foram criados para a instanciação de classes. </li>
+    <li><strong>Estruturais:</strong> esses padrões foram criados levando em conta a estrutura de uma classe e sua composição.</li>
+    <li><strong>Comportamentais:</strong> esses padrões foram criados levando em conta a forma como uma classe se comunica com as outras.</li>
+</ul>
+
 
 
 <h2>
