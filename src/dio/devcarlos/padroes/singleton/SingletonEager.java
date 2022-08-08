@@ -1,4 +1,4 @@
-package dio.devcarlos.padroes;
+package dio.devcarlos.padroes.singleton;
 
 /**
  * Singleton "apressado "
