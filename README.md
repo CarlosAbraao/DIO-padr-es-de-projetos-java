@@ -1,16 +1,24 @@
-<h1>Conhecendo o Projeto Spring Data JPA na Prática </h1>
-<p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto Spring Data JPA na Prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
+<h1>Conhecendo 3 implementações de Design Patterns </h1>
+<p> Sejam bem-vindos ao projeto de LAB <strong>Conhecendo o Projeto conhecendo padrões de projeto na prática</strong> oferecido gratuitamente pela plataforma de cursos online <a href="https://dio.me/"><strong> Digital Innovation One</strong></a>.<br>
 
 <h2>🎯 Objetivo do Projeto</h2>
-<p>Ao final deste projeto, o Dev irá conhecer os principais conceitos de mapeamento objeto relacional (ORM) usando o <strong>Spring Data JPA</strong>. Para isso, uma <strong>API RESTful</strong> será desenvolvida com ênfase na modelagem de suas entidades, no domínio de uma academia de ginástica.</p>
+<p>Ao final deste projeto, o Dev irá conhecer 3 tipos de Design Patters e algumas das suas variações, são elas:</p>
 
+<h2> 🚦 Definição de Design Patterns </h2>
+
+<p>Em Engenharia de Software, um padrão de desenho ou padrão de projeto é uma solução geral para um problema que ocorre com frequência dentro de um determinado contexto no projeto de software.</p>
+
+<ol>
+    <li> Singleton </li>
+    <li> Strategy</em>)</li>
+    <li> Facade</em></li>
+    
+</ol>
 <h2>
 🛑 Pré-requistos
 </h2>
 
-- [x] Fundamentos do Spring Boot
-
-- [x] Noções de SQL
+- [x] Fundamentos Java
 
 <h2> 🚦 Guia </h2>
 
@@ -18,9 +26,7 @@
     <li> Apresentação do Projeto Base </li>
     <li> Configuração do banco de dados (SGBD <em>PostgreSQL</em>)</li>
     <li> Aplicando as <em>annotations</em></li>
-    <li>Execução do fluxo back-end: <em>Controller - Service - Repository</em></li>
-    <li>Validação - <em>Hibernate Validator</em> </li>
-    <li>Consultas Avançadas - <em>Derived Query - Native Query</em></li>
+    
 </ol>
 
 <h2>🛠 Tecnologias Utilizadas</h2>
